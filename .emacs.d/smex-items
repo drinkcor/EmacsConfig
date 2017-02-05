@@ -1,0 +1,18 @@
+
+;; ----- smex-history -----
+(
+ nodejs-repl-send-buffer
+ nodejs-repl
+ emacs-lisp-mode
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (emacs-lisp-mode . 1)
+ (nodejs-repl . 2)
+ (nodejs-repl-send-buffer . 1)
+)
